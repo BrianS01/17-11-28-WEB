@@ -10,6 +10,7 @@
 
 package DAO;
 
-public class Table {
+public class Table
+{
     
 }
