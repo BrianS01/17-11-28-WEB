@@ -10,6 +10,7 @@
 
 package DAO;
 
-public class SimpleFieldDAO {
+public class SimpleFieldDAO
+{
     
 }
